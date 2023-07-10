@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+img {
+  border-radius: 25px;
+}
+
+ul {
+  list-style-type: none
+}
