@@ -13,16 +13,16 @@ export default function Home() {
           <div id="carouselImages" class="carousel slide carousel-fade" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'/media/dragon_slide.jpg'} />
+                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'https://xgarciadevs.github.io/putters-pride/media/dragon_slide.jpg'} />
               </div>
               <div class="carousel-item">
-                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'/media/mountain_course.jpg'} />
+                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'https://xgarciadevs.github.io/putters-pride/media/mountain_course.jpg'} />
               </div>
               <div class="carousel-item">
-                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'/media/patio.jpg'} />
+                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'https://xgarciadevs.github.io/putters-pride/media/patio.jpg'} />
               </div>
               <div class="carousel-item">
-                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'/media/town.jpg'} />
+                <Image className='d-block w-100' alt='Carousel item' width={400} height={500} src={'https://xgarciadevs.github.io/putters-pride/media/town.jpg'} />
               </div>
             </div>
           </div><br />
@@ -34,22 +34,22 @@ export default function Home() {
         <div class="container text-center">
           <div class="row">
             <div class="col">
-              <Image alt='Windmill Feature' width={300} height={200} src={'/media/windmill.jpg'} /><br />
+              <Image alt='Windmill Feature' width={300} height={200} src={'https://xgarciadevs.github.io/putters-pride/media/windmill.jpg'} /><br />
               <h3>54 Holes of Adventure</h3>
               <p>3 immaculately landscaped 18-hole miniature golf courses = 54 holes of adventure! Dragons, windmills, ponds and more make each mini golf hole challenging and fun for all ages.</p>
             </div>
             <div class="col">
-              <Image alt='Windmill Feature' width={300} height={200} src={'/media/clowns.jpg'} /><br />
+              <Image alt='Windmill Feature' width={300} height={200} src={'https://xgarciadevs.github.io/putters-pride/media/clowns.jpg'} /><br />
               <h3>Host your Own Event</h3>
               <p>Birthday Parties, Special Occasions, Family Reunions, Corporate Events, you name it - and we can host it!</p>
             </div>
             <div class="col">
-              <Image alt='Windmill Feature' width={300} height={200} src={'/media/clubs.jpg'} /><br />
+              <Image alt='Windmill Feature' width={300} height={200} src={'https://xgarciadevs.github.io/putters-pride/media/clubs.jpg'} /><br />
               <h3>Birthday Celebrations</h3>
               <p>Sign up for our Birthday Club and receive special offers in addition to a free round of golf on your birthday!</p>
             </div>
             <div class="col">
-              <Image alt='Windmill Feature' width={300} height={200} src={'/media/treetown.jpg'} /><br />
+              <Image alt='Windmill Feature' width={300} height={200} src={'https://xgarciadevs.github.io/putters-pride/media/treetown.jpg'} /><br />
               <h3>The New North Pole</h3>
               <p>Every year from Black Friday to Christmas Eve, Putter's Pride becomes Denver's own North Pole! Pick out your family tree, visit Santa's Workshop, pet a live reindeer, and more!</p>
             </div>

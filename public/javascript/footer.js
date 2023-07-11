@@ -24,7 +24,7 @@ export default function PPFooter() {
         <div class="container text-center text-md-start mt-5">
           <div class="row mt-3">
             <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-              <h6 class="text-uppercase fw-bold mb-4"><Image alt="Logo for Putters Pride" width={100} height={94} className="d-inline-block align-text-top" src={'/putterspride.png'} /></h6>
+              <h6 class="text-uppercase fw-bold mb-4"><Image alt="Logo for Putters Pride" width={100} height={94} className="d-inline-block align-text-top" src={'https://xgarciadevs.github.io/putters-pride/putterspride.png'} /></h6>
               <p>54 holes of miniature golfing, and much much more!</p>
             </div>
 
